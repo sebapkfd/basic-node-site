@@ -1,0 +1,24 @@
+{
+  "name": "basic-node",
+  "version": "1.0.0",
+  "description": "Small project, built for assignment as part of the curriculum for [The Odin Project](https://www.theodinproject.com/).",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebapkfd/basic-node-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebapkfd/basic-node-site/issues"
+  },
+  "homepage": "https://github.com/sebapkfd/basic-node-site#readme"
+}
